@@ -1,0 +1,12 @@
+body { 
+background-color: aqua;
+color: blue;
+font-size: 16px;
+}
+p {
+    color: green;
+}
+ul { 
+    background-color: brown;
+    color: green
+}
